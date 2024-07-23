@@ -2,7 +2,7 @@ In Studying-Python I aim to share with you all what I have been studying or have
 I am an Oceanographer and I specialize in Environmental Resources Management so most of my studies are related to this field.
 As I progress in Python I have been learning how Machine Learning can be applied to study our oceans, and I am hoping to bring some interesting topics on the subject soon.
 
-------------Contaminated Areas in Brazil---------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------Contaminated Areas in Brazil------------------------------------------------------------------------------------------------------------------------------------------------------------------
 But for now, I present you a simple script to study the contaminated areas in Brazil, my home country: areas-contaminadas.ipynb. Created on Google Colab.  
 I start the script with something light, a simple bar plot and I progress to some simple interactive maps. For those who simply want to have some first impressions of their data, this can be helpful. 
 The idea is to see how many areas are affected by different contaminants. 
