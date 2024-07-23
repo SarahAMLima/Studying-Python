@@ -1,5 +1,0 @@
-This file is all about the 'if'. And yes, we are constantly asking ourselves what 'if' I have done this or that. 
-Unlike in real life, with programming we can have a mathematical accurate answer to lives most important queries. 
-Learn how to use this super useful function here.
-
-if variable > 50: return "you own yourself a glass of wine"
